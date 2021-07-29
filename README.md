@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ { “name” : “Juan Cetina”,
+   “role” : “Fullstack Dev”,
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/juan-camilo-2584b273/", 
+      "Resume"   : "https://juancamilocetina.github.io/Portafolio/",
+      "IG"       : "https://www.instagram.com/juancamilocetina"
+     }
+ }
+
