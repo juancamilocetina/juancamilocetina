@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- { “name” : “Juan Cetina”,
-   “role” : “Fullstack Dev”,
-   “data” : 
+<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
+```shell
+ { “name” : “Juan Camilo Cetina”,
+   “role” : “Fullstack Dev”,
+   “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/juan-camilo-2584b273/", 
-      "Resume"   : "https://juancamilocetina.github.io/Portafolio/",
+      "Resume"   : "https://juancamilocetina.github.io/Portafolio/",
       "IG"       : "https://www.instagram.com/juancamilocetina"
      }
  }
-
+```
