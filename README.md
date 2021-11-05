@@ -26,11 +26,7 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br/>
-<p>
-  <a href="https://instagram.com/juancamilocetina" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Veritechie"/>
-  </a>
-</p>
+
 
 
 
