@@ -4,8 +4,7 @@
    “role” : “FrontEnd Developer”,
    “data” : 
      {  
-      "Portafolio"   : "https://juancamilocetina.github.io/Portafolio/",
-      "Instagram"    : "https://www.instagram.com/juancamilocetina"
+      "Portafolio"   : "https://juancamilocetina.github.io/Portafolio/"
      }
  }
 ```
